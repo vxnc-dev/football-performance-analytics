@@ -1,0 +1,13 @@
+match_id,player_id,event_type,minute,detail
+1,2,goal,12,penalty
+1,7,goal,24,none
+1,8,assist,24,none
+1,0,goal_against,34,none
+1,6,yellow_card,69,none
+2,7,goal,20,none
+2,5,assist,20,none
+2,2,yellow_card,35,none
+2,7,goal,66,none
+2,7,goal,74,none
+2,10,assist,74,none
+2,0,goal_against,86,none
