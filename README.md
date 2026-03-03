@@ -1,4 +1,4 @@
-# Sports Performance & Match Analytics Pipeline
+# Football Performance & Match Analytics Pipeline
 
 End-to-end data pipeline for football performance analytics.
 Built for semi-professional clubs with limited resources.
