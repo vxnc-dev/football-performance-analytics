@@ -44,3 +44,6 @@ Only file paths need to be adjusted.
 
 ## Status
 Active development. MVP-level but production-oriented.
+
+##Usage
+1. squad.csv -> data_enrichment.py -> squad_enrichment.csv -> [trainingzones_docx.py + body_prop_docx.py] -> [trainingzones.docx + body_proportions.docx]
