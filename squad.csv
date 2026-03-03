@@ -1,0 +1,16 @@
+player_id,name,born,height_cm,weight_kg,position,dom_site
+1,Player 01,1998-04-10,186,80,Goalie,right
+2,Player 02,1984-07-05,191,84,Defender,left
+3,Player 03,1985-01-01,185,85,Defender,right
+4,Player 04,2002-01-01,180,75,Defender,right
+5,Player 05,2002-05-17,180,85,Midfield,right
+6,Player 06,1997-04-05,190,90,Midfield,right
+7,Player 07,1996-03-31,181,88,Midfield,left
+8,Player 08,1996-08-24,178,80,Attack,right
+9,Player 09,1998-10-14,175,80,Attack,right
+10,Player 10,2002-01-01,182,80,Attack,left
+11,Player 11,1995-07-27,193,77,Defender,right
+12,Player 12,1997-05-12,185,85,Defender,left
+13,Player 13,1997-06-26,180,80,Attack,right
+14,Player 14,2002-04-19,182,78,Midfield,right
+15,Player 15,1996-10-19,174,75,Midfield,left
