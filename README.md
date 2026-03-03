@@ -45,5 +45,6 @@ Only file paths need to be adjusted.
 ## Status
 Active development. MVP-level but production-oriented.
 
-##Usage
+## Usage
 1. squad.csv -> data_enrichment.py -> squad_enrichment.csv -> [trainingzones_docx.py + body_prop_docx.py] -> [trainingzones.docx + body_proportions.docx]
+2. matches.csv + match_load.csv + match_events.csv -> match_stats.py + match_overview.py -> match_summary.csv + match_overview.csv + goal_distribution.png + goals_against_distribution.png
